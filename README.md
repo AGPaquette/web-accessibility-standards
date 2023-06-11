@@ -1,7 +1,8 @@
 # Web-Accessibility-Standards
 
 
-##Description
+## Description
+
 Go over the html code for the website that is being shown below and making sure that it meets the accisibility standards.
 
 ![Screenshot 2023-06-09 215606](https://github.com/AGPaquette/web-accessibility-standards/assets/131227245/08941a28-3409-4aea-96e3-de44970010f7)
